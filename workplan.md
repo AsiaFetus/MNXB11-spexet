@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Homemade Pizza Dough
 
 Manuel’s simple pizza dough recipe — makes **2 medium pizzas**.
