@@ -1,7 +1,5 @@
 # Homemade Pizza Recipe
 
-A simple pizza dough recipe - makes **2 medium pizzas**.
-
 ## Ingredients
 
 - 300 g flour
@@ -14,7 +12,9 @@ A simple pizza dough recipe - makes **2 medium pizzas**.
 - Salt and oregano
 - Basil leaves or toppings of choosing
 
-## Instructions
+---
+
+## Manuel: Instructions for the dough.
 
 1. **Mix:** Combine the flour, yeast and salt. Add the water and olive oil, then mix into a rough dough.
 2. **Knead:** Knead for **8–10 minutes**, until smooth and elastic. If it’s sticky, add just a little flour.
@@ -25,9 +25,7 @@ Your dough is now ready for your favourite pizza toppings!
 
 ---
 
-*Recipe for the dough provided by ChatGPT from OpenAI.*
-
-## Preparing
+## Georges: Preparing
 
 1. Place your pizza bases on a floured workspace 
 2. Add a generous pinch of salt and oregano into your tomato sauce and mix by hand
@@ -35,14 +33,19 @@ Your dough is now ready for your favourite pizza toppings!
 4. Add your mozzarella slice *(alternatively you can also freeze your cheese and grate it over your base)*
 5. Add your basil leaves or any other topping of your choice and your pizza is ready for the oven!
 
-## Cooking
+---
+
+## Elena: Cooking
 
 1. Preheat the oven.
 2. Place the pizza on a baking tray.
 3. Bake until the dough is cooked and the cheese is melted.
 4. Remove the pizza from the oven and let it cool before serving
 
-## Serving
+---
+
+## Gabriel: Serving
+
 1. Once cooled, slice into eigths with a pizza slicer and place them on a serving board
 2. Serve with additional toppings available such as parmesan or honey
 3. Make sure to also offer sides and drinks
