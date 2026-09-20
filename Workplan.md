@@ -1,4 +1,4 @@
-# Homemade Pizza Dough
+# Homemade Pizza Recipe
 
 Manuel’s simple pizza dough recipe — makes **2 medium pizzas**.
 
@@ -27,10 +27,18 @@ Your dough is now ready for your favourite pizza toppings!
 
 *Recipe for the dough provided by ChatGPT from OpenAI.*
 
+## Preparing
+
+<<<<<<< HEAD:workplan.md
 1. Place your pizza bases on a floured workspace 
 2. Add a generous pinch of salt and oregano into your tomato sauce and mix by hand
 3. Use a ladle or a large spoon to add tomato sauce to your base. Spread the sauce evenly using the bottom of your spoon/ladle. 
 4. Add your mozzarella slice *(alternatively you can also freeze your cheese and grate it over your base)*
 5. Add your basil leaves or any other topping of your choice and your pizza is ready for the oven!
-  
 
+## Cooking
+
+1. Preheat the oven.
+2. Place the pizza on a baking tray.
+3. Bake until the dough is cooked and the cheese is melted.
+4. Remove the pizza from the oven and let it cool before serving
