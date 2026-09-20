@@ -1,6 +1,6 @@
 # Homemade Pizza Recipe
 
-Manuel’s simple pizza dough recipe — makes **2 medium pizzas**.
+A simple pizza dough recipe - makes **2 medium pizzas**.
 
 ## Ingredients
 
@@ -29,7 +29,6 @@ Your dough is now ready for your favourite pizza toppings!
 
 ## Preparing
 
-<<<<<<< HEAD:workplan.md
 1. Place your pizza bases on a floured workspace 
 2. Add a generous pinch of salt and oregano into your tomato sauce and mix by hand
 3. Use a ladle or a large spoon to add tomato sauce to your base. Spread the sauce evenly using the bottom of your spoon/ladle. 
@@ -42,3 +41,9 @@ Your dough is now ready for your favourite pizza toppings!
 2. Place the pizza on a baking tray.
 3. Bake until the dough is cooked and the cheese is melted.
 4. Remove the pizza from the oven and let it cool before serving
+
+## Serving
+1. Once cooled, slice into eigths with a pizza slicer and place them on a serving board
+2. Serve with additional toppings available such as parmesan or honey
+3. Make sure to also offer sides and drinks
+4. Keep the extra pizza warm in the oven on low temperaure
